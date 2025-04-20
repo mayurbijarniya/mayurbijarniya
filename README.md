@@ -16,8 +16,8 @@
 I share projects that **demonstrate product thinking backed by data**. Explore if you hire for:  
 
 - **Technical / Digital Product Manager**  
-- **Product Analyst · Business/Data Analyst**  
-- **Technical Business Analyst · Solutions Analyst**  
+- **Product Analyst · Business/Data Analyst**  
+- **Technical Business Analyst · Solutions Analyst**  
 - **UX / Market Research (data‑heavy)**  
 
 For pure coordination roles (Project Manager, Scrum Master, etc.) my résumé covers methodologies—GitHub mainly hosts the code & analytics that power my products.
@@ -33,25 +33,29 @@ For pure coordination roles (Project Manager, Scrum Master, etc.) my résumé 
 
 ---
 
-### 🌟 Selected Repos (1‑min tour)
+### 🌟 Featured Projects & Live Demos
 
-| Repo | What to open | Why it matters |
-|------|--------------|----------------|
-| **Nexus‑AI** | `demo.ipynb` · `/api/` | Shows end‑to‑end product spec + Flask prototype + Jupyter analysis |
-| **HuskyShare** | `/app/` · `README.md` GIF | Demonstrates feature roadmap > wireframes > working MVP |
-| **EPL‑Timekeeping‑Analysis** | `report.pdf` · `notebooks/` | Example of data storytelling & statistical significance testing |
+| Project | Repo / Code | Live Demo |
+|---------|-------------|-----------|
+| **Nexus AI**<br><sup>AI‑powered academic publishing</sup> | [`/Nexus-AI`](https://github.com/mayurbijarniya/Nexus-AI) | [nexus‑ai ↗](https://mayur-bijarniya.vercel.app/project/nexus-ai) |
+| **HuskyShare**<br><sup>Peer‑to‑peer reuse platform</sup> | [`/HuskyShare`](https://github.com/mayurbijarniya/HuskyShare) | [huskyshare ↗](https://mayur-bijarniya.vercel.app/project/huskyshare) |
+| **Premier‑League Analysis**<br><sup>Impact of new time‑keeping rules</sup> | [`/EPL-Timekeeping-Analysis`](https://github.com/mayurbijarniya/EPL-Timekeeping-Analysis) | [premier‑league ↗](https://mayur-bijarniya.vercel.app/project/premier-league) |
+| **UniCircle**<br><sup>Campus social networking app</sup> | [`/UniCircle`](https://github.com/mayurbijarniya/UniCircle) | [unicircle ↗](https://mayur-bijarniya.vercel.app/project/unicircle) |
 
 ---
 
-### 📊 At a Glance
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayurbijarniya&show_icons=true&include_all_commits=true&hide_rank=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurbijarniya&layout=compact" height="150">
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurbijarniya" height="150">
+</p>
 
 ---
 
-### 🤝 Let’s Talk
-- **LinkedIn:** DM me for product & data roles  
-- **Portfolio:** <https://mayur-bijarniya.vercel.app>  
-- **Email:** bijarniya.m@northeastern.edu  
+### 🤝 Let’s Connect
+- **LinkedIn:** <https://www.linkedin.com/in/mayur-bijarniya/>
+- **Portfolio:** <https://mayur-bijarniya.vercel.app>
+- **Email:** bijarniya.m@northeastern.edu
