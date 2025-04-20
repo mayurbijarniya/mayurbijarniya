@@ -20,7 +20,7 @@ I share projects that **demonstrate product thinking backed by data**. Explore i
 - **Technical Business Analyst · Solutions Analyst**  
 - **UX / Market Research (data‑heavy)**  
 
-For pure coordination roles (Project Manager, Scrum Master, etc.) my résumé covers methodologies—GitHub mainly hosts the code & analytics that power my products.
+For pure coordination roles (Project Manager, Scrum Master, etc.) my résumé covers methodologies—GitHub mainly hosts the analytics and prototypes that power my products.
 
 ---
 
@@ -33,14 +33,14 @@ For pure coordination roles (Project Manager, Scrum Master, etc.) my résumé 
 
 ---
 
-### 🌟 Featured Projects & Live Demos
+### 🌟 Featured Projects & Live Demos
 
-| Project | Repo / Code | Live Demo |
-|---------|-------------|-----------|
-| **Nexus AI**<br><sup>AI‑powered academic publishing</sup> | [`/Nexus-AI`](https://github.com/mayurbijarniya/Nexus-AI) | [nexus‑ai ↗](https://mayur-bijarniya.vercel.app/project/nexus-ai) |
-| **HuskyShare**<br><sup>Peer‑to‑peer reuse platform</sup> | [`/HuskyShare`](https://github.com/mayurbijarniya/HuskyShare) | [huskyshare ↗](https://mayur-bijarniya.vercel.app/project/huskyshare) |
-| **Premier‑League Analysis**<br><sup>Impact of new time‑keeping rules</sup> | [`/EPL-Timekeeping-Analysis`](https://github.com/mayurbijarniya/EPL-Timekeeping-Analysis) | [premier‑league ↗](https://mayur-bijarniya.vercel.app/project/premier-league) |
-| **UniCircle**<br><sup>Campus social networking app</sup> | [`/UniCircle`](https://github.com/mayurbijarniya/UniCircle) | [unicircle ↗](https://mayur-bijarniya.vercel.app/project/unicircle) |
+| Project | Live Demo |
+|---------|-----------|
+| **Nexus AI**<br><sup>AI‑powered academic publishing</sup> | [nexus‑ai ↗](https://mayur-bijarniya.vercel.app/project/nexus-ai) |
+| **HuskyShare**<br><sup>Peer‑to‑peer reuse platform</sup> | [huskyshare ↗](https://mayur-bijarniya.vercel.app/project/huskyshare) |
+| **Premier‑League Analysis**<br><sup>Impact of new time‑keeping rules</sup> | [premier‑league ↗](https://mayur-bijarniya.vercel.app/project/premier-league) |
+| **UniCircle**<br><sup>Campus social networking app</sup> | [unicircle ↗](https://mayur-bijarniya.vercel.app/project/unicircle) |
 
 ---
 
