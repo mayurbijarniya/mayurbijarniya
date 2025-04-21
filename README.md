@@ -36,17 +36,6 @@ For pure coordination roles (Project Manager, Scrum Master, etc.) my résumé 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurbijarniya&show_icons=true&include_all_commits=true&hide_rank=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurbijarniya&layout=compact" height="150">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurbijarniya" height="150">
-</p>
-
----
-
 ### 🤝 Let’s Connect
 - **LinkedIn:** <https://www.linkedin.com/in/mayur-bijarniya/>
 - **Portfolio:** <https://mayur-bijarniya.vercel.app>
