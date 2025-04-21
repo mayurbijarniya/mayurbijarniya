@@ -22,14 +22,6 @@ I share projects that **demonstrate product thinking backed by data**. Explore i
 
 For pure coordination roles (Project Manager, Scrum Master, etc.) my résumé covers methodologies—GitHub mainly hosts the analytics and prototypes that power my products.
 
----
-
-### 🔑 Quick Facts
-|   |   |
-|---|---|
-| 🎓 MS Engineering Management, Northeastern | GPA 3.7 · Dec 2026 |
-| 🚀 Built AI & sustainability tools used by **500 + students** | 50 % faster research cycle · 640 lbs waste diverted |
-| 🛠 Stack | Python · Flask · Pandas · SQL · Tableau · Figma |
 
 ---
 
