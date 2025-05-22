@@ -1,7 +1,7 @@
 <!-- GitHub Profile README – Mayur Bijarniya -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=007ACC&center=true&vCenter=true&width=800&lines=Hi!+I'm+Mayur+Bijarniya;Turning+insight+into+impact+with+data+%26+design." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=007ACC&center=true&vCenter=true&width=800&lines=Hi!+I'm+Mayur+Bijarniya;Building+impactful+products+with+data,+design+%26+strategy." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,31 +12,37 @@
 
 ---
 
-### 👀 Why You’re Here  
-I share projects that **demonstrate product thinking backed by data**. Explore if you hire for:  
+### 👋 About Me  
+I'm an Engineering Management graduate student at Northeastern University with a background in Computer Science.  
+I’ve led projects across AI, sustainability, and social platforms — turning research and analytics into products that serve real user needs.
 
-- **Technical / Digital Product Manager**  
-- **Product Analyst · Business/Data Analyst**  
-- **Technical Business Analyst · Solutions Analyst**  
-- **UX / Market Research (data‑heavy)**  
-
-For pure coordination roles (Project Manager, Scrum Master, etc.) my résumé covers methodologies—GitHub mainly hosts the analytics and prototypes that power my products.
-
+As a Business Analyst Intern, I helped streamline CRM and e-commerce solutions by mapping workflows, visualizing data, and improving cross-team delivery using tools like **JIRA, Figma, Power BI, and SQL**.
 
 ---
 
-### 🌟 Featured Projects & Live Demos
+### 🔍 I’m Interested In Roles Like:
+- **Product Manager / Associate Product Manager**
+- **Business Analyst / Product Analyst / Data Analyst**
+- **Technical Business Analyst / Implementation Specialist**
+- **UX Researcher / Market Research Analyst**
+
+> 📌 GitHub showcases my prototypes, analytics, and product-backed case projects — for process tools & coordination frameworks (Scrum, Kanban, RAID, etc.), check my résumé.
+
+---
+
+### 🚀 Featured Projects
 
 | Project | Live Demo |
-|---------|-----------|
-| **Nexus AI**<br><sup>AI‑powered academic publishing</sup> | [nexus‑ai ↗](https://mayur-bijarniya.vercel.app/project/nexus-ai) |
-| **HuskyShare**<br><sup>Peer‑to‑peer reuse platform</sup> | [huskyshare ↗](https://mayur-bijarniya.vercel.app/project/huskyshare) |
-| **Premier‑League Analysis**<br><sup>Impact of new time‑keeping rules</sup> | [premier‑league ↗](https://mayur-bijarniya.vercel.app/project/premier-league) |
-| **UniCircle**<br><sup>Campus social networking app</sup> | [unicircle ↗](https://mayur-bijarniya.vercel.app/project/unicircle) |
+|--------|------------|
+| **Nexus AI**<br><sup>AI platform for academic publishing</sup> | [Live ↗](https://mayur-bijarniya.vercel.app/project/nexus-ai) |
+| **HuskyShare**<br><sup>Campus reuse & sustainability app</sup> | [Live ↗](https://mayur-bijarniya.vercel.app/project/huskyshare) |
+| **Premier League Analysis**<br><sup>Impact of new timekeeping rules</sup> | [Live ↗](https://mayur-bijarniya.vercel.app/project/premier-league) |
+| **UniCircle**<br><sup>Social networking for student communities</sup> | [Live ↗](https://mayur-bijarniya.vercel.app/project/unicircle) |
 
 ---
 
-### 🤝 Let’s Connect
-- **LinkedIn:** <https://www.linkedin.com/in/mayur-bijarniya/>
-- **Portfolio:** <https://mayur-bijarniya.vercel.app>
-- **Email:** bijarniya.m@northeastern.edu
+### 🤝 Let’s Connect
+
+- 📇 **LinkedIn** → [mayur-bijarniya](https://www.linkedin.com/in/mayur-bijarniya/)
+- 🌐 **Portfolio** → [mayur-bijarniya.vercel.app](https://mayur-bijarniya.vercel.app)
+- 📬 **Email** → bijarniya.m@northeastern.edu
