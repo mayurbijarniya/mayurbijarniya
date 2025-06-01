@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.mayurbijarniya.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Online-007ACC?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/mayur-bijarniya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mayurbijarniya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:bijarniya.m@northeastern.edu"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -43,6 +43,6 @@ As a Business Analyst Intern, I helped streamline CRM and e-commerce solutions b
 
 ### 🤝 Let’s Connect
 
-- 📇 **LinkedIn** → [mayur-bijarniya](https://www.linkedin.com/in/mayurbijarniya/)
-- 🌐 **Portfolio** → [mayur-bijarniya.vercel.app](https://www.mayurbijarniya.com/)
+- 📇 **LinkedIn** → [mayurbijarniya](https://www.linkedin.com/in/mayurbijarniya/)
+- 🌐 **Portfolio** → [mayurbijarniya.com](https://www.mayurbijarniya.com/)
 - 📬 **Email** → bijarniya.m@northeastern.edu
