@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mayur-bijarniya.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Online-007ACC?style=for-the-badge"></a>
+  <a href="https://www.mayurbijarniya.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Online-007ACC?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/mayur-bijarniya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:bijarniya.m@northeastern.edu"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -34,15 +34,15 @@ As a Business Analyst Intern, I helped streamline CRM and e-commerce solutions b
 
 | Project | Live Demo |
 |--------|------------|
-| **Nexus AI**<br><sup>AI platform for academic publishing</sup> | [Live ↗](https://mayur-bijarniya.vercel.app/project/nexus-ai) |
-| **HuskyShare**<br><sup>Campus reuse & sustainability app</sup> | [Live ↗](https://mayur-bijarniya.vercel.app/project/huskyshare) |
-| **Premier League Analysis**<br><sup>Impact of new timekeeping rules</sup> | [Live ↗](https://mayur-bijarniya.vercel.app/project/premier-league) |
-| **UniCircle**<br><sup>Social networking for student communities</sup> | [Live ↗](https://mayur-bijarniya.vercel.app/project/unicircle) |
+| **Nexus AI**<br><sup>AI platform for academic publishing</sup> | [Live ↗](https://www.mayurbijarniya.com/project/nexus-ai) |
+| **HuskyShare**<br><sup>Campus reuse & sustainability app</sup> | [Live ↗](https://www.mayurbijarniya.com/project/huskyshare) |
+| **Premier League Analysis**<br><sup>Impact of new timekeeping rules</sup> | [Live ↗](https://www.mayurbijarniya.com/project/premier-league) |
+| **UniCircle**<br><sup>Social networking for student communities</sup> | [Live ↗](https://www.mayurbijarniya.com/project/unicircle) |
 
 ---
 
 ### 🤝 Let’s Connect
 
-- 📇 **LinkedIn** → [mayur-bijarniya](https://www.linkedin.com/in/mayur-bijarniya/)
-- 🌐 **Portfolio** → [mayur-bijarniya.vercel.app](https://mayur-bijarniya.vercel.app)
+- 📇 **LinkedIn** → [mayur-bijarniya](https://www.linkedin.com/in/mayurbijarniya/)
+- 🌐 **Portfolio** → [mayur-bijarniya.vercel.app](https://www.mayurbijarniya.com/)
 - 📬 **Email** → bijarniya.m@northeastern.edu
